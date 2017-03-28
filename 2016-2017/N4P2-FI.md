@@ -1,16 +1,21 @@
-# Nom du projet
+# 1,2,3 grandir
 
-Description / proposition de valeur unique
+Micro crèche
 
 ## Équipe
 
-* Nom Prénom
-* etc.
+* AIT ELHAJ Azzedine
+* BRISSET Adrien
+* CASCAILH Romain
+* LAMBOIS Alexis
+* LEPRETRE Guillaume
+* MEULEMAN Remi
+* REINLING Robin
+
 
 ## Resources
 
-* git serveur + js : 
-* git android :
+* git serveur + js + android: https://github.com/Azzerood/jersey-skeleton 
 
 # Coach Sportif
 
